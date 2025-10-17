@@ -19,10 +19,10 @@ const projects = [
     live: '#',
   },
   {
-    title: 'GoHighLevel Funnel & Automation',
+    title: 'GHL Funnel & Automation',
     description:
-      'GoHighLevel Funnel & automated client services for Roofing & Construction Business',
-    image: '/roofing5.jpg',
+      'GoHighLevel Funnel & automated client services for Real Estate Business',
+    image: '/realEstate.png',
     tags: ['GoHighLevel', 'Automated Client Services'],
     github: '#',
     live: '#',
